@@ -34,20 +34,6 @@ Camera ──► Raspberry Pi ──► Teachable Machine model (Keras/MobileNet
 - Configuring alert thresholds in ThingsBoard so the queue status can be monitored without manually checking the camera feed
 - Filtering detections to reliably count people in a queue context (avoiding double-counting, handling occlusion)
 
-## Setup / Usage
-
-```bash
-# minimal steps to run it
-```
-
-## Results
-
-<!-- Add accuracy, FPS achieved on the Pi, or a screenshot of the ThingsBoard dashboard -->
-
-## Demo
-
-<!-- Add a photo/video of the detection running + a screenshot of the ThingsBoard dashboard -->
-
 ## Context
 
 Personal project — embedded AI, computer vision, and IoT dashboarding on Raspberry Pi.
